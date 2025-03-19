@@ -1,7 +1,3 @@
-Aqui está a versão aprimorada do texto, com redundâncias removidas e informações organizadas de forma mais clara e concisa:
-
----
-
 # Projeto de Integração da Clínica Integra com Investmoney
 
 Este teste técnico tem como objetivo avaliar suas habilidades em desenvolvimento front-end utilizando Svelte, com foco na implementação de rotas de autenticação e pré-cadastro, utilizando as operações HTTP `POST`, `PATCH`, `PUT` e listagem de objetos com filtros. A aplicação deve consumir a API fornecida através do Swagger JSON disponibilizado.
