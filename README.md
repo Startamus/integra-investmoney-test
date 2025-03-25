@@ -217,10 +217,6 @@ svelte-app/
 ├── package.json
 ```
 
-## Conclusão
-
-Este teste técnico é uma oportunidade para demonstrar suas habilidades em desenvolvimento front-end com Svelte, consumo de APIs e criação de interfaces de usuário. Boa sorte!
-
 ---
 
 Este texto está mais conciso, com redundâncias removidas e informações organizadas de forma clara e direta. Se precisar de mais ajustes, é só avisar!
