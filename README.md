@@ -76,14 +76,15 @@ Para o desenvolvimento deste projeto, você recebeu:
      - Login e logout.
      - Criação, edição e listagem de pré-cadastros.
      - Filtragem de listagens conforme os parâmetros disponíveis.
-     - 
+       
 ### 5. **Procedimentos**
    - Essas rotas serao usadas para listar os procedimentos da sua clinica.
    - **GET** `/assignor/procedure/`: Lista todos os procedimentos do cedente
-   - 
+   - **GET** `/assignor/procedure/{id}`: Lista  o procedimento do cedente pelo id
 ### 6. **Categorias**
    - Essas rotas serao usadas para listar os categorias  que um procediemnto pode possuir.
-   - **GET** `/assignor/procedure-category/`: Lista todos os procedimentos do cedente
+   - **GET** `/assignor/procedure-category/`: Lista todos os procedimentos do cedente.
+   - **GET** `/assignor/procedure-category/{id}`: Lista  a categoria de procedimento pelo id
 
 ## Tecnologias
 
