@@ -217,6 +217,3 @@ svelte-app/
 ├── package.json
 ```
 
----
-
-Este texto está mais conciso, com redundâncias removidas e informações organizadas de forma clara e direta. Se precisar de mais ajustes, é só avisar!
